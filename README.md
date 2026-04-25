@@ -6,7 +6,7 @@
 
 MS Computational Data Science @ Carnegie Mellon University &nbsp;|&nbsp; Previously SWE @ Adobe
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgarodia/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-818cf8?style=flat-square&logo=vercel&logoColor=white)](https://dhruv-garodia.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruv.j.garodia@gmail.com)
 
